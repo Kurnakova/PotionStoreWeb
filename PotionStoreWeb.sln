@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotionStoreWeb.BL", "Potion
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotionStoreWeb.WebUI", "PotionStoreWeb.WebUI\PotionStoreWeb.WebUI.csproj", "{7A7295FA-91F6-4518-8863-3D775F49A53D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotionStoreWeb.MVC", "PotionStoreWeb.MVC\PotionStoreWeb.MVC.csproj", "{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,5 +58,17 @@ Global
 		{7A7295FA-91F6-4518-8863-3D775F49A53D}.Release|x64.Build.0 = Release|Any CPU
 		{7A7295FA-91F6-4518-8863-3D775F49A53D}.Release|x86.ActiveCfg = Release|Any CPU
 		{7A7295FA-91F6-4518-8863-3D775F49A53D}.Release|x86.Build.0 = Release|Any CPU
+		{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}.Debug|x64.Build.0 = Debug|Any CPU
+		{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}.Debug|x86.Build.0 = Debug|Any CPU
+		{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}.Release|x64.ActiveCfg = Release|Any CPU
+		{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}.Release|x64.Build.0 = Release|Any CPU
+		{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}.Release|x86.ActiveCfg = Release|Any CPU
+		{37AAED3A-F71E-4464-AE08-D13B3EBEEFBC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
